@@ -48,6 +48,8 @@ Linearity: Check if the relationship between independent and dependent variables
 Independence: Ensure the residuals are independent.
 Homoscedasticity: Verify that the residuals have constant variance.
 Normality: Confirm that the residuals are normally distributed.
+
+
 __Results__
 The final model identifies the key factors influencing bike demand and provides a reliable prediction of bike rentals. The top contributing features are:
 
